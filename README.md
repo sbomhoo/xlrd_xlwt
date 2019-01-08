@@ -1,7 +1,6 @@
 # xlrd_xlwt
 [python File I/O] xlrd,xlwt 라이브러리를 이용한 excel파일과 text파일 변형
 
-<코드 설명>
 1.ex01_region.py
 -이 프로그램은 엑셀파일을 입력받아 3개의 폴더별(시기별 분류)로 각각의 텍스트파일로 출력하는 프로그램이다.
 
